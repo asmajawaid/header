@@ -1,7 +1,13 @@
 
 
-export default function contact() {
+import React from 'react'
+
+function Contact() {
   return (
-    <div className="flex gap-2 bg-pink-600"><h1><b>contact-us page</b></h1></div>
-  );
+    <div>
+      
+    </div>
+  )
 }
+
+export default Contact
